@@ -1,7 +1,7 @@
 export default function component(){
     const homeDiv=document.createElement('div');
     const imgDiv=document.createElement('img');
-    imgDiv.src="/Users/dracuusta/restaurantsPage/src/nick-karvounis-Ciqxn7FE4vE-unsplash.jpg";
+    imgDiv.src="restaurant.jpg";
     imgDiv.setAttribute('id','headerImg');
     imgDiv.style.height="400px";
     imgDiv.style.width="1300px";
